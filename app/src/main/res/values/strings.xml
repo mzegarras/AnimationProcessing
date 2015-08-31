@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AnimationProcessing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_show">Show</string>
+
+
+    <integer name="time_milliseconds">100</integer>
+
+
+
+    <string name="message_0">Espere un momento por favor.</string>
+    <string name="message_1">Consultando Datos</string>
+    <string name="message_2">Verificando Clientes</string>
+    <string name="message_3">Verificando acceso</string>
+
+    <color name="custom_theme_color">#262626</color>
+</resources>
